@@ -1,0 +1,26 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "description": "Leetcode questions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rorywork/leetcode.git"
+  },
+  "keywords": [
+    "leetcode"
+  ],
+  "author": "Rory Lindsay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rorywork/leetcode/issues"
+  },
+  "homepage": "https://github.com/Rorywork/leetcode#readme",
+  "dependencies": {
+    "leetcode-cli": "^2.6.2",
+    "vsc-leetcode-cli": "github:leetcode-tools/leetcode-cli"
+  }
+}
